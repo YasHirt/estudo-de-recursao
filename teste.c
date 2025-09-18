@@ -1,10 +1,15 @@
 #include <stdio.h>
-void print(char nome[]);
-int main(void)
+void imprimeHashtag(int linha);
+int main(void) 
 {
-    print("Yasmin");
+   imprimeHashtag(4);
 }
-void print(char nome[])
+void imprimeHashtag(int linha)
 {
-    printf("%c", nome[5]);
+    if(linha == 0) return;
+    else
+    {
+        printf("#");
+        imprimeHashtag(linha - 1);
+    }
 }
