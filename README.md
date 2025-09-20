@@ -24,6 +24,7 @@ O objetivo principal deste projeto é **praticar conceitos fundamentais de recur
 8. **Imprimir números de n até 1** – inverso do anterior.  
 9. **Pirâmide** - Criar uma Pirâmide alinhada a esquerda com altura definida pelo user
 10. **Pirâmide Alinhada a Direita** -  Criar uma Pirâmide alinhada a direita com altura definida pelo user
+11. **Soma Recursiva de um Vetor** - Dada uma lista (vetor) de inteiros, a função recursiva  calcula a soma de todos os elementos.
 
 > Esses exercícios são projetados para reforçar o entendimento da recursão em diferentes contextos e tipos de dados.
 
