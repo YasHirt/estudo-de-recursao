@@ -23,6 +23,7 @@ O objetivo principal deste projeto é **praticar conceitos fundamentais de recur
 7. **Imprimir números de 1 até n** – com recursão.  
 8. **Imprimir números de n até 1** – inverso do anterior.  
 9. **Pirâmide** - Criar uma Pirâmide alinhada a esquerda com altura definida pelo user
+10. **Pirâmide Alinhada a Direita** -  Criar uma Pirâmide alinhada a direita com altura definida pelo user
 
 > Esses exercícios são projetados para reforçar o entendimento da recursão em diferentes contextos e tipos de dados.
 
